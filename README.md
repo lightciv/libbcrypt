@@ -39,3 +39,6 @@ build this with something like this:
 ```bash
 g++ --std=c++11 -lbcrypt main.cpp
 ```
+
+Using `cmake --build . --config Release` build on Windows
+or using `cmake -G` to select generator you need 
